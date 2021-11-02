@@ -1,0 +1,19 @@
+h1{
+    background-color: rgb(66, 245, 212);
+    text-align: center;
+    letter-spacing: 20px;
+}
+#datos {
+    background-color: rgb(140, 250, 230) ;
+}
+#formacion {
+    background-color: rgb(140, 250, 230) ;
+}
+#experiencia {
+    background-color: rgb(140, 250, 230) ;
+}
+img.logo2 {
+    width: 25px; height: 25px;
+}
+footer{
+    background-color: rgb(66, 245, 212);}
